@@ -1,5 +1,4 @@
-var json2csv = require('json2csv');
-var fs = require('fs');
+
 var esClient = require('./client');
 
 (function () {
