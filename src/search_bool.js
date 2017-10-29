@@ -11,7 +11,7 @@ var esClient = require ('./client');
   // all calls should be initiated through the module
   const test = function test() {
     let body = {
-      size: 20,
+      size: 50,
       from: 0,
       query: {
         bool: {
